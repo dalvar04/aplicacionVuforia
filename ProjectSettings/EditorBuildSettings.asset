@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/vuforia.unity
+    guid: 6fbae98b9e76c0843961332e0a6d0b46
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0875a34f58c7f4e4db321883da8a25e3,
+      type: 2}
